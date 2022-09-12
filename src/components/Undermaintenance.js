@@ -9,7 +9,7 @@ const Undermaintenance = () => {
         <h1 className="text-3xl font-semibold">Website Under</h1>
         <h1 className="text-3xl font-semibold">
           {"< "}
-          <span className="bg-[#4C4DDC] text-white mb-2">Development</span>{" "}
+          <span className="bg-primary text-white mb-2">Development</span>{" "}
           {"/>"}
         </h1>
       </div>
@@ -17,7 +17,8 @@ const Undermaintenance = () => {
         <h1 className="text-3xl font-semibold">Website Under</h1>
         <h1 className="text-3xl font-semibold">
           {"< "}
-          <span className="bg-primary text-white mb-2">Development</span> {"/>"}
+          <span className="bg-primary text-white mb-2">Development</span>{" "}
+          {"/>"}
         </h1>
       </div>
     </div>
